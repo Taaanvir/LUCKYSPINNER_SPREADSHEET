@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+body{
+  background: #F7F6F3;
+  max-height:100vh;
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+.SpinnerSection{
+  margin: 20px auto;
+  position: relative;
+  max-width: 500px;
+}
+
+.powerbar-container{
+  text-align: center;
+}
